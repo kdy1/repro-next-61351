@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@react-three/drei": "^9.96.5",
+    "@react-three/fiber": "^8.15.15",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
